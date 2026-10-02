@@ -1,0 +1,13 @@
+{
+  "name": "StealthGhost AI - Invisible Interview Copilot",
+  "description": "Multi-platform stealth interview assistant and mock exam reader with undetected screen overlay, live audio transcription, speech synthesis, and multi-model AI engine.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+

@@ -1,0 +1,24 @@
+{
+  "name": "StealthGhost AI - Invisible Interview Copilot",
+  "short_name": "StealthGhost",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "orientation": "any",
+  "description": "Multi-platform stealth interview assistant and mock exam reader with undetected screen overlay, live audio transcription, speech synthesis, and multi-model AI engine.",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192' fill='%2306b6d4'><path d='M96 20c-40 0-72 32-72 72v60c0 11 9 20 20 20h104c11 0 20-9 20-20V92c0-40-32-72-72-72zm-28 64a12 12 0 1 1 0 24 12 12 0 0 1 0-24zm56 0a12 12 0 1 1 0 24 12 12 0 0 1 0-24z'/></svg>",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' fill='%2306b6d4'><path d='M256 50c-110 0-200 90-200 200v170c0 30 25 55 55 55h290c30 0 55-25 55-55V250c0-110-90-200-200-200zm-75 180a35 35 0 1 1 0 70 35 35 0 0 1 0-70zm150 0a35 35 0 1 1 0 70 35 35 0 0 1 0-70z'/></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
